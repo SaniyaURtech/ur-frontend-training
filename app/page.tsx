@@ -72,6 +72,7 @@ export default function Home() {
         </p>
       ))}
 
+
       <hr />
 
       <h3>Products Sorted By Price</h3>
